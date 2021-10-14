@@ -3,7 +3,7 @@ from PIL import Image, ImageDraw
 
 # Powers of two please
 MAP_SIZE = 2048
-CELL_AMOUNT = 128
+CELL_AMOUNT = 16
 
 STEPS = 5
 
