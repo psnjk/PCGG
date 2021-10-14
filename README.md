@@ -1,4 +1,4 @@
-# Procedural Content Creation for Games Course Portfolio Repository
+# Procedural Content Creation for Games Portfolio Repository
 ## Portfolio element one
 ### Random dungeon generator
 Random greedy algorithm that build a map of a corridors with initial starting point
